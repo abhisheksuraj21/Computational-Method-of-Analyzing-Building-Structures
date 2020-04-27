@@ -1,1 +1,1 @@
-#Computational-Method-of-Analyzing-Building-Structures
+Computational-Method-of-Analyzing-Building-Structures
